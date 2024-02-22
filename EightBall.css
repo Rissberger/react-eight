@@ -1,0 +1,20 @@
+.EightBall {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+    margin: 20px auto; /* Center the ball horizontally */
+  }
+  
+  button {
+    display: block; /* Make the button block level so it centers nicely */
+    margin: 20px auto; /* Center the button below the eight ball */
+  }
+  
+  /* Add additional styling as needed */
+  
